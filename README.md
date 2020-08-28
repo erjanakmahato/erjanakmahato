@@ -1,5 +1,23 @@
 ### Hola, I'm Janak Mahato👋
 
+  <a href="https://www.facebook.com/janak.singh.9212301">
+  <img align="left" alt="Janak's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg">
+  </a>
+  <a href="https://twitter.com/thejanaksingh">
+  <img align="left" alt="janak's twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">
+  </a>
+  <a href="https://www.linkedin.com/in/thejanaksingh/">
+  <img align="left" alt=janak's linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
+                              </a>
+<a href="https://www.instagram.com/in/thejanaksingh/">
+  <img align="left" alt=janak's instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">
+                              </a>
+<a href="https://telegram.org/thejanakmahto">
+  <img align="left" alt=janak's telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg">
+                              </a>
+<a href="https://www.github.com/in/erjanakmahato/">
+  <img align="left" alt=janak's telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg">
+                              </a>
 
 - 🔭 I’m currently working at [Braindigit IT Solution](http://braindigit.com/).
 - 🌱 I’m currently learning  flutter.
