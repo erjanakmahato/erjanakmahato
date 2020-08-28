@@ -14,7 +14,7 @@
 
 <a>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erjanakmahato&layout=compact&hide=html&theme=dark&hide_langs_below=1" style="max-width:100%;">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=erjanakmahato&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+  <img src="https://github-readme-stats.vercel.app/api?username=erjanakmahato&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 </a>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=erjanakmahato&repo=COVID-19&theme=dark">
