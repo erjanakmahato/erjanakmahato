@@ -15,9 +15,10 @@
 <a href="https://telegram.org/thejanakmahto">
   <img align="left" alt=janak's telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg">
                               </a>
-<a href="https://www.github.com/in/erjanakmahato/">
-  <img align="left" alt=janak's telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg">
+<a href="https://www.github.com/in/erjanakmahato/" img align="left" alt=janak's telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg">
                               </a>
+
+
 
 - 🔭 I’m currently working at [Braindigit IT Solution](http://braindigit.com/).
 - 🌱 I’m currently learning  flutter.
