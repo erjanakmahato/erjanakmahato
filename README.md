@@ -20,7 +20,7 @@
 
 
 
-- 🔭 I’m currently working at [Braindigit IT Solution](http://braindigit.com/).
+- 🔭 I’m currently working at [Technables IT Solution](http://technables.com/).
 - 🌱 I’m currently learning  flutter.
 - 👯 I’m looking to collaborate on [Github.com](https://github.com/erjanakmahato)
 - 💬 Ask me about Tech Related Stuff.
