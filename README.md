@@ -13,7 +13,7 @@
 
 
 
-  - 🔭 I’m currently working at [Global Square IT Solution]([http://technables.com/](https://globalsquareit.com/)).
+  - 🔭 I’m currently working at [Global Square IT Solution](https://globalsquareit.com/).
   - 👯 I’m looking to collaborate on [Github.com](https://github.com/erjanakmahato)
   - 💬 Ask me about Tech Related Stuff.
   - 📫 How to reach me: [Twitter-@thejanaksingh](https://twitter.com/thejanaksingh), [LinkedIn-@thejanaksingh](https://www.linkedin.com/in/thejanaksingh/), [Facebook-@JANAK](https://www.facebook.com/janak.singh.9212301)
